@@ -1,7 +1,7 @@
 ## CABLE Datasets
 
 ### Imageset 1: CJ4TEST.h5
-VISoR imaging of the coronal radiate localisation of the brain of a marmoset monkey (No. CJ004) with a resolution of 4 µm for CABLE code testing.
+VISoR imaging of the coronal radiate localisation of the brain of a marmoset (No. CJ004) with a resolution of 4 µm for CABLE code testing.
 
 [http://smart.siat.ac.cn](http://smart.siat.ac.cn)
 
